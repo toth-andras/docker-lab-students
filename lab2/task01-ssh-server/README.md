@@ -59,4 +59,7 @@ ssh -p 2222 root@localhost
 
 ## Результат
 
+<img width="1119" height="241" alt="image" src="https://github.com/user-attachments/assets/4e765053-cab9-4c2a-931e-9dfd169074ca" />
+
+
 **В отчёт:** строку баннера SSH из шага 5 (что сервер ответил).
