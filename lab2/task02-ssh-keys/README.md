@@ -44,6 +44,9 @@ exit
 ssh -i ~/.ssh/docker_lab_key -p 2222 root@localhost
 ```
 
+<img width="1301" height="526" alt="image" src="https://github.com/user-attachments/assets/fcad6357-2bd6-487a-96ab-9d66ecdbd626" />
+
+
 Должно впустить **без пароля**. Внутри сразу выйдите: `exit`.
 
 ## Результат
