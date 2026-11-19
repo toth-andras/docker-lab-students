@@ -36,6 +36,9 @@ ssh -i ~/.ssh/docker_lab_key -p 2222 root@localhost 'cat /root/hostfile.txt'
 
 ## Результат
 
+<img width="1681" height="473" alt="image" src="https://github.com/user-attachments/assets/aac7706e-3ed9-432b-968d-f1f9dc679487" />
+
+
 **В отчёт:** вывод `cat testfile.txt` на хосте и `cat /root/hostfile.txt`
 в контейнере.
 
